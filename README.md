@@ -60,8 +60,8 @@ For the full publication record, see:
 
 For EMS research, health services research, or academic collaboration:
 
-**Jacob C. Kamholz, MPH, NRP**
-JKamholz@NREMT.org
+**Jacob C. Kamholz, MPH, NRP**  
+[JKamholz@NREMT.org](mailto:JKamholz@NREMT.org)  
 EMS Research Fellow  
 National Registry of Emergency Medical Technicians  
 PhD Student, Health Services Management and Policy  
